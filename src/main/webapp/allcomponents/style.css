@@ -1,0 +1,31 @@
+ .bg-custom{
+	background-color:#00796b ;
+}
+.navbar .nav-item:hover .nav-link{
+	background-color:white;
+	color:#400080;
+	display:inline;
+}
+ h3  i {
+  color: #F78770;
+  font-size: 30px;
+  margin:8px;
+}
+.card{
+background-color:#fff8e1;
+box-shadow:0 4px 10px rgba(0,0,0,0.1);
+border-radius:10px;
+
+}
+.crd-ho {
+    transition: all 0.3s ease;
+    border-radius: 10px;
+}
+
+.crd-ho:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.25);
+    background-color:#fff8e1;
+    cursor: pointer;
+}
+
